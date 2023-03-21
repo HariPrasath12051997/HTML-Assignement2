@@ -1,0 +1,57 @@
+.border{
+    width: 1000px;
+    height: 500px;
+    border: 2px solid black;
+    margin: 50px auto;
+}
+.title{
+    border: 2px solid black;
+    text-align: center;
+    margin: 30px 250px;
+}
+.border1{
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
+   margin: 50px 50px;
+   
+
+}
+.border2{
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
+   margin: 50px 50px;
+}
+.border3{
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
+   margin: 50px 50px;
+}
+.border4{
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
+   margin: 50px 50px;
+}
+.sub-title{
+    text-align: center;
+    margin: 0px 10px;
+}
+.sub-title1{
+    text-align: center;
+    margin: 0px 10px;
+}
+.sub-title2{
+    text-align: center;
+    margin: 0px 10px;
+}
+.sub-title3{
+    text-align: center;
+    margin: 0px 10px;
+}
+.sub-title4{
+    text-align: center;
+    margin: 0px 10px;
+}
